@@ -1,0 +1,8 @@
+body {
+  background: rgb(221, 221, 228);
+}
+
+.container {
+  margin-top: 10rem !important;
+  padding: 1.5rem 5rem;
+}
